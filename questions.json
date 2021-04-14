@@ -244,9 +244,9 @@
   },
   {
     "question": "Who was the first 30-game winner when he won 40 games in a season in 1882?",
-    "choice1": "",
-    "choice2": "",
-    "choice3": "",
+    "choice1": "Jim Maloney",
+    "choice2": "Noodles Hahn",
+    "choice3": "Tom Hume",
     "choice4": "Will White",
     "moreInfo": "",
     "answer": 4
@@ -255,7 +255,7 @@
     "question": "Who was Cincinnati's first manager to win 100 games in a season?",
     "choice1": "Bill McKechnie",
     "choice2": "Dusty Baker",
-    "choice3": "",
+    "choice3": "Lou Pinella",
     "choice4": "Sparky Anderson",
     "moreInfo": "",
     "answer": 1
