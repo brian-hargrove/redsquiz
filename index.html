@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Great Reds Quiz</title>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.3/css/all.css"
+      integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="home" class="flex-center flex-column">
+        <h1>Cincinnati Reds Trivia</h1>
+
+        <a class="btn" id="playText" href="/game.html">Play</a>
+        <a class="btn" id="highScoreText" href="/highScores.html"
+          >High Scores</a
+        >
+        <button class="btn show-modal" id="rulesText">Rules</button>
+
+        <div class="overlay hidden"></div>
+      </div>
+      <div class="modal hidden">
+        <button class="close-modal">
+          <i class="fas fa-baseball-ball"></i>
+        </button>
+        <h1 id="rulesOfPlay">Rules of Play</h1>
+
+        <ol>
+          1. Every correct answer will add 10 points
+        </ol>
+        <ol>
+          2. Every wrong answer will subtract 5 points
+        </ol>
+        <ol>
+          3. Ten questions will be selected at random.
+        </ol>
+        <ol>
+          4. At the end of 10 questions, you can save your score and play again.
+        </ol>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

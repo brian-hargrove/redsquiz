@@ -1,0 +1,317 @@
+[
+  {
+    "question": "How many World Series titles have the Reds won?",
+    "choice1": "2",
+    "choice2": "3",
+    "choice3": "5",
+    "choice4": "7",
+    "moreInfo": "The Reds won in 1919, 1940, 1975, 1976, and 1990",
+    "answer": 3
+  },
+  {
+    "question": "Who is the all time Home Run Leader?",
+    "choice1": "Adam Dunn",
+    "choice2": "Frank Robinson",
+    "choice3": "George Foster",
+    "choice4": "Johnny Bench",
+    "moreInfo": "Johnny Bench hit 389 home runs during his career.  Entering the 2021 season, Joey Votto is the active home run leader with 295, ranking him 3rd.",
+    "answer": 4
+  },
+  {
+    "question": "Who is the all time leader in stolen bases?",
+    "choice1": "Barry Larkin",
+    "choice2": "Bid McPhee",
+    "choice3": "Billy Hamilton",
+    "choice4": "Joe Morgan",
+    "moreInfo": "Bid McPhee stole 568 bases from 1882 - 1899.",
+    "answer": 2
+  },
+  {
+    "question": "Who is the all time leader in Wins?",
+    "choice1": "Eppa Rixey",
+    "choice2": "Jim Maloney",
+    "choice3": "Joe Nuxhall",
+    "choice4": "Tom Seaver",
+    "moreInfo": "Eppa Rixey played for the Reds from 1921 - 1933, winning 179 games.",
+    "answer": 1
+  },
+  {
+    "question": "Who is the all time leader in Strikeouts?",
+    "choice1": "Jim Maloney",
+    "choice2": "Johnny Vander Meer",
+    "choice3": "Jose Rijo",
+    "choice4": "Mario Soto",
+    "moreInfo": "Jim Maloney struck out 1,592 batters during his Reds career from 1960 - 1970.",
+    "answer": 1
+  },
+  {
+    "question": "Who is the all time leader in saves?",
+    "choice1": "Aroldis Chapman",
+    "choice2": "Clay Carroll",
+    "choice3": "Danny Graves",
+    "choice4": "John Franco",
+    "moreInfo": "From 1997 - 2005, Danny Graves saved 182 games.",
+    "answer": 3
+  },
+  {
+    "question": "Who hit the most home runs in a year?",
+    "choice1": "Adam Dunn",
+    "choice2": "Eugenio Suarez",
+    "choice3": "George Foster",
+    "choice4": "Ted Kluszewski",
+    "moreInfo": "George Foster hit 52 home runs in 1977.",
+    "answer": 3
+  },
+  {
+    "question": "Who has the best On-Base Percentage in one season?",
+    "choice1": "Augie Galan",
+    "choice2": "Joe Morgan",
+    "choice3": "Joey Votto",
+    "choice4": "Pete Rose",
+    "moreInfo": "In 2012, Joey Votto had an On-Base Percentage of .474.",
+    "answer": 3
+  },
+  {
+    "question": "Who has the most hits in one year?",
+    "choice1": "Cy Seymour",
+    "choice2": "Frank Robinson",
+    "choice3": "Pete Rose",
+    "choice4": "Vada Pinson",
+    "moreInfo": "Pete Rose had 230 hits in 1973.",
+    "answer": 3
+  },
+  {
+    "question": "Who has the most strikeouts in one year?",
+    "choice1": "Luis Castillo",
+    "choice2": "Mario Soto",
+    "choice3": "Noodles Hahn",
+    "choice4": "Tom Seaver",
+    "moreInfo": "Mario Soto struck out 274 in 1982.",
+    "answer": 2
+  },
+  {
+    "question": "This Red was the first National Leaguer to be a DH in the World Series.",
+    "choice1": "Dan Driesen",
+    "choice2": "George Foster",
+    "choice3": "Johnny Bench",
+    "choice4": "Ken Griffey, Sr.",
+    "moreInfo": "Dan Driesen was the Red's DH in the 1976 World Series.",
+    "answer": 1
+  },
+  {
+    "question": "Whose nickname was Big Doggie",
+    "choice1": "Cesar Geronimo",
+    "choice2": "Doug Flynn",
+    "choice3": "Ken Griffey, Sr.",
+    "choice4": "Tony Perez",
+    "moreInfo": "Tony Perez played for the Reds from 1964 - 1976 and from 1984 - 1986.",
+    "answer": 4
+  },
+  {
+    "question": "Who was the MVP of the 1976 World Series?",
+    "choice1": "George Foster",
+    "choice2": "Joe Morgan",
+    "choice3": "Johnny Bench",
+    "choice4": "Pete Rose",
+    "moreInfo": "With a .533 batting average, 2 home runs, and 6 RBI's Johnny Bench was name the 1976 MVP.",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following nicknames was NOT used by Cincinnati?",
+    "choice1": "Red Sox",
+    "choice2": "Red Stockings",
+    "choice3": "Redlegs",
+    "choice4": "Reds",
+    "moreInfo": "From 1882 - 1889, Cincinnati was known as the Red Stockings. Since 1890, Cincinnati has been know as the Reds.  Except during the 1954 - 1958 seasons, when Cincinnati went by the Redlegs.",
+    "answer": 1
+  },
+  {
+    "question": "Which player did NOT win a Golden Glove as a member of the Reds?",
+    "choice1": "Ernie Lombardi",
+    "choice2": "Johnny Edwards",
+    "choice3": "Pokey Reese",
+    "choice4": "Tucker Barnhart",
+    "moreInfo": "Johnny Edwards won in 1963 & 1964.  Pokey Reese won in 1999 & 2000.  Tucker Barnhart won in 2017 & 2020",
+    "answer": 1
+  },
+  {
+    "question": "Which played was not a MVP of the All-Star game?",
+    "choice1": "Dave Concepcion",
+    "choice2": "Joe Morgan",
+    "choice3": "Pete Rose",
+    "choice4": "Tony Perez",
+    "moreInfo": "Dave Concepcion won in 1982, Joe Morgan in 1972 & Tony Perez in 1967.",
+    "answer": 3
+  },
+  {
+    "question": "Who is the first Cincinnati Reds pitcher to win the Cy Young Award?",
+    "choice1": "Don Gullett",
+    "choice2": "Jim Maloney",
+    "choice3": "Tom Seaver",
+    "choice4": "Trevor Bauer",
+    "moreInfo": "Trevor Bauer won the Cy Young Award in 2020.",
+    "answer": 4
+  },
+  {
+    "question": "During the 1990 season, Rob Dibble, Norm Charlton & Randy Myers was known by what nickname?",
+    "choice1": "Bing, Bang, Boom",
+    "choice2": "The Nasty Boys",
+    "choice3": "The Three Amigos",
+    "choice4": "Triple K",
+    "moreInfo": "The Nasty Boys was an integral part of the 1990 World Series Championship.",
+    "answer": 2
+  },
+  {
+    "question": "Who is the only picther to throw consecutive no-hitters in major league history?",
+    "choice1": "Homer Bailey",
+    "choice2": "Jim Maloney",
+    "choice3": "Johnny Vander Meer",
+    "choice4": "Tom Browning",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "What player was NOT a team captain?",
+    "choice1": "Barry Larkin",
+    "choice2": "Dave Concepcion",
+    "choice3": "Johnny Bench",
+    "choice4": "Pete Rose",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "Which former Reds broadcaster is not honored with a retired microphone?",
+    "choice1": "Al Michaels",
+    "choice2": "Joe Nuxhall",
+    "choice3": "Marty Brennaman",
+    "choice4": "Waite Hoyt",
+    "moreInfo": "",
+    "answer": 1
+  },
+  {
+    "question": "Who did the Reds beat in the 1919 World Series?",
+    "choice1": "Boston Braves",
+    "choice2": "Chicago White Sox",
+    "choice3": "Detroit Tigers",
+    "choice4": "Saint Louis Browns",
+    "moreInfo": "",
+    "answer": 2
+  },
+  {
+    "question": "Who was the last player to win the N.L. MVP?",
+    "choice1": "Barry Larkin",
+    "choice2": "Frank Robinson",
+    "choice3": "Joey Votto",
+    "choice4": "Trevor Baurer",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "Who was the last player to hit for the cycle?",
+    "choice1": "Eric Davis",
+    "choice2": "Frank Robinson",
+    "choice3": "Joey Votto",
+    "choice4": "Pete Rose",
+    "moreInfo": "",
+    "answer": 1
+  },
+  {
+    "question": "How many no-hitters did Homer Bailey throw as a Red?",
+    "choice1": "0",
+    "choice2": "1",
+    "choice3": "2",
+    "choice4": "3",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "Who is the only pitcher to throw a perfect game?",
+    "choice1": "Clyde Shoun",
+    "choice2": "Jim Maloney",
+    "choice3": "Mario Soto",
+    "choice4": "Tom Browning",
+    "moreInfo": "",
+    "answer": 4
+  },
+  {
+    "question": "In what year did the Reds make their first World Series appearance?",
+    "choice1": "1881",
+    "choice2": "1895",
+    "choice3": "1919",
+    "choice4": "1948",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "Who was the first 30-game winner when he won 40 games in a season in 1882?",
+    "choice1": "",
+    "choice2": "",
+    "choice3": "",
+    "choice4": "Will White",
+    "moreInfo": "",
+    "answer": 4
+  },
+  {
+    "question": "Who was Cincinnati's first manager to win 100 games in a season?",
+    "choice1": "Bill McKechnie",
+    "choice2": "Dusty Baker",
+    "choice3": "",
+    "choice4": "Sparky Anderson",
+    "moreInfo": "",
+    "answer": 1
+  },
+  {
+    "question": "Who was the first Red to win Rookie of the Year?",
+    "choice1": "Frank Robinson",
+    "choice2": "Johnny Bench",
+    "choice3": "Pete Rose",
+    "choice4": "Vada Pinson",
+    "moreInfo": "",
+    "answer": 1
+  },
+  {
+    "question": "This Red was the first in MLB history to hit 30 homers and steal 50 bases in a season.",
+    "choice1": "Barry Larkin",
+    "choice2": "Eric Davis",
+    "choice3": "Joe Morgan",
+    "choice4": "Ken Griffey, Sr.",
+    "moreInfo": "",
+    "answer": 2
+  },
+  {
+    "question": "How many games did the Reds win in the 1919 World Series?",
+    "choice1": "2",
+    "choice2": "3",
+    "choice3": "4",
+    "choice4": "5",
+    "moreInfo": "",
+    "answer": 4
+  },
+  {
+    "question": "On June 14, 1978, Pete Rose started a hitting streak that would last how many games?",
+    "choice1": "31",
+    "choice2": "40",
+    "choice3": "44",
+    "choice4": "57",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "Who was the first rookie catcher to win a Gold Glove Award?",
+    "choice1": "Ed Bailey",
+    "choice2": "Ernie Lombardi",
+    "choice3": "Joe Oliver",
+    "choice4": "Johnny Bench",
+    "moreInfo": "",
+    "answer": 4
+  },
+  {
+    "question": "When was the year the Reds opened the season on the road?",
+    "choice1": "1919",
+    "choice2": "1966",
+    "choice3": "1990",
+    "choice4": "Never, they have always opened the season at home",
+    "moreInfo": "",
+    "answer": 3
+  }
+]

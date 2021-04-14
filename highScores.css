@@ -1,0 +1,30 @@
+#highScoresList {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 4rem;
+}
+
+.high-score {
+  font-size: 2.8rem;
+  color: white;
+  background-color: rgba(198, 33, 39, 0.4);
+
+  margin-bottom: 0.5rem;
+}
+
+.high-score:hover {
+  transform: scale(1.025);
+}
+
+body {
+  background-image: url("/Assets/safe.JPG");
+  background-size: 100vw;
+  background-repeat: no-repeat;
+}
+
+#goHomeText {
+  font-size: 2.5rem;
+}
+#clearScore {
+  font-size: 2.5rem;
+}
