@@ -313,5 +313,23 @@
     "choice4": "Never, they have always opened the season at home",
     "moreInfo": "",
     "answer": 3
+  },
+  {
+    "question": "Who played in the most All-Star games as a Red?",
+    "choice1": "Barry Larkin",
+    "choice2": "Dave Concepcion",
+    "choice3": "Johnny Bench",
+    "choice4": "Pete Rose",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "Who has the 2nd longest hit streak in Reds history?",
+    "choice1": "Frank Robinson",
+    "choice2": "Hal Morris",
+    "choice3": "Sean Casey",
+    "choice4": "Vada Pinson",
+    "moreInfo": "",
+    "answer": 2
   }
 ]
