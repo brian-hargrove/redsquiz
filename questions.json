@@ -331,5 +331,131 @@
     "choice4": "Vada Pinson",
     "moreInfo": "",
     "answer": 2
+  },
+  {
+    "question": "Who has the most extra-bases hits in a season?",
+    "choice1": "Frank Robinson",
+    "choice2": "George Foster",
+    "choice3": "Joey Votto",
+    "choice4": "Ted Kluszewski",
+    "moreInfo": "",
+    "answer": 1
+  },
+  {
+    "question": "What was the reason the Red Stockings were kicked out of the National League in 1880?",
+    "choice1": "Fixing Games",
+    "choice2": "Rowdy Fans",
+    "choice3": "Sold beer during games",
+    "choice4": "Very expensive tickets",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "Who holds the record for pitching the most consecutive complete games?",
+    "choice1": "Bronson Arroyo",
+    "choice2": "Jim Maloney",
+    "choice3": "Mario Soto",
+    "choice4": "Tom Seaver",
+    "moreInfo": "",
+    "answer": 4
+  },
+  {
+    "question": "Who holds the single-game record for strikeouts by a pitcher?",
+    "choice1": "Gary Nolan",
+    "choice2": "Jim Maloney",
+    "choice3": "Mario Soto",
+    "choice4": "Trevor Bauer",
+    "moreInfo": "Jim Maloney recorded 18 strikeouts in 11 innings on June 14, 1965 against the New York Mets.",
+    "answer": 2
+  },
+  {
+    "question": "What is the longest win streak in Reds history?",
+    "choice1": "8 Games",
+    "choice2": "12 Games",
+    "choice3": "18 Games",
+    "choice4": "23 Games",
+    "moreInfo": "The Reds won 12 games in a row in 1939.",
+    "answer": 2
+  },
+  {
+    "question": "Which player did NOT have multiple three-homer games during their Reds career?",
+    "choice1": "Aaron Boone",
+    "choice2": "Eric Davis",
+    "choice3": "Frank Robinson",
+    "choice4": "Jesse Winker",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "Which reliever has appeared in the most All-Star Games with the Reds?",
+    "choice1": "Aroldis Chapman",
+    "choice2": "Clay Carroll",
+    "choice3": "John Franco",
+    "choice4": "Randy Myers",
+    "moreInfo": "",
+    "answer": 1
+  },
+  {
+    "question": "How many times was Joe Morgan a National League All-Star as a member of the Reds?",
+    "choice1": "4",
+    "choice2": "6",
+    "choice3": "8",
+    "choice4": "10",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "The Reds won a team record of 108 games in what year?",
+    "choice1": "1919",
+    "choice2": "1970",
+    "choice3": "1975",
+    "choice4": "1999",
+    "moreInfo": "",
+    "answer": 3
+  },
+  {
+    "question": "Who scored the most runs in a season with 134?",
+    "choice1": "Frank Robinson",
+    "choice2": "Joe Morgan",
+    "choice3": "Pete Rose",
+    "choice4": "Vada Pinson",
+    "moreInfo": "",
+    "answer": 1
+  },
+  {
+    "question": "Who holds the single season saves record with 44?",
+    "choice1": "Aroldis Chapman",
+    "choice2": "Clay Carroll",
+    "choice3": "Danny Graves",
+    "choice4": "Jeff Brantley",
+    "moreInfo": "",
+    "answer": 4
+  },
+  {
+    "question": "What Reds reliever is known at 'The Cowboy'?",
+    "choice1": "Clay Carroll",
+    "choice2": "Jeff Brantley",
+    "choice3": "John Franco",
+    "choice4": "Tejay Antone",
+    "moreInfo": "",
+    "answer": 2
+  },
+  {
+    "question": "What is the most runs the Reds have scored in one inning?",
+    "choice1": "12",
+    "choice2": "14",
+    "choice3": "16",
+    "choice4": "18",
+    "moreInfo": "The Reds scored 14 runs in the 1st inning against the Houston Astros on August 3, 1989.",
+    "answer": 2
+  },
+  {
+    "question": "Which player did NOT win a Gold Glove Award at shortstop for the Reds?",
+    "choice1": "Barry Larkin",
+    "choice2": "Dave Concepcion",
+    "choice3": "Pookey Reese",
+    "choice4": "Roy McMillan",
+    "moreInfo": "",
+    "answer": 3
   }
 ]
